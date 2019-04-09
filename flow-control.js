@@ -1,4 +1,4 @@
-function basicTeenager(age) { IF(age >= 13 && age <= 19) {return 'you are a teenager}
+function basicTeenager(age) { IF(age >= 13 && age <= 19) {console.log ('you are a teenager')}
 
 }
 
